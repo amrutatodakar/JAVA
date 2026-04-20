@@ -18,3 +18,5 @@ StringPerformance output:https://github.com/amrutatodakar/JAVA/blob/main/Stringp
 ListOperations output:https://github.com/amrutatodakar/JAVA/blob/main/listoperation_output.png
 
 SortColors output:https://github.com/amrutatodakar/JAVA/blob/main/sortcolors_output.png
+
+Sublistcolor output:https://github.com/amrutatodakar/JAVA/blob/main/sublistcolors_output.png
