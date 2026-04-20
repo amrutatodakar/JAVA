@@ -42,7 +42,7 @@ ReverseString:https://github.com/amrutatodakar/JAVA/blob/main/ReverseString.png
 
 Q3c.
 CapitalizeWord:https://github.com/amrutatodakar/JAVA/commit/77dbcbeceaeb44e2843865229adf5ac12af64cab
-CountWords:
+CountWords:https://github.com/amrutatodakar/JAVA/blob/main/CountWords.png
 IsNumeric:
 RandomStringGenerator:
 TruncateString:
