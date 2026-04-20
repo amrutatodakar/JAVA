@@ -1,38 +1,55 @@
-package swing;
+package swings;
 
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;
+import java.util.HashMap;
 
 public class CountryList {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Country List");
+        JFrame frame = new JFrame("Country List with Capitals");
 
-        // Countries array
+        // Countries
         String[] countries = {
             "USA", "India", "Vietnam", "Canada", "Denmark",
             "France", "Great Britain", "Japan", "Africa",
             "Greenland", "Singapore"
         };
 
-        // Create JList
+        // Map for country -> capital
+        HashMap<String, String> capitals = new HashMap<>();
+        capitals.put("USA", "Washington D.C.");
+        capitals.put("India", "New Delhi");
+        capitals.put("Vietnam", "Hanoi");
+        capitals.put("Canada", "Ottawa");
+        capitals.put("Denmark", "Copenhagen");
+        capitals.put("France", "Paris");
+        capitals.put("Great Britain", "London");
+        capitals.put("Japan", "Tokyo");
+        capitals.put("Africa", "Not Applicable");
+        capitals.put("Greenland", "Nuuk");
+        capitals.put("Singapore", "Singapore");
+
+        // JList
         JList<String> list = new JList<>(countries);
 
-        // Add selection listener
+        // Event handling
         list.addListSelectionListener(new ListSelectionListener() {
             public void valueChanged(ListSelectionEvent e) {
 
-                // To avoid multiple triggers
                 if (!e.getValueIsAdjusting()) {
                     String selected = list.getSelectedValue();
-                    System.out.println("Selected country: " + selected);
+
+                    if (selected != null) {
+                        System.out.println("Capital of " + selected + ": " + capitals.get(selected));
+                    }
                 }
             }
         });
 
-        // Add scroll (important for JList)
+        // ScrollPane
         JScrollPane scrollPane = new JScrollPane(list);
 
         frame.add(scrollPane, BorderLayout.CENTER);
