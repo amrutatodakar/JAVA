@@ -22,3 +22,5 @@ SortColors output:https://github.com/amrutatodakar/JAVA/blob/main/sortcolors_out
 Sublistcolor output:https://github.com/amrutatodakar/JAVA/blob/main/sublistcolors_output.png
 
 Swapelements output:https://github.com/amrutatodakar/JAVA/blob/main/swapelements_output.png
+
+Reverseiteration_output:https://github.com/amrutatodakar/JAVA/blob/main/Reverseiteration_output.png
