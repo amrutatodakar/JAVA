@@ -10,7 +10,7 @@ SearchColor output:https://github.com/amrutatodakar/JAVA/blob/main/SEarchColor_o
 SortColors output:https://github.com/amrutatodakar/JAVA/blob/main/sortcolors_output.png
 Sublistcolor output:https://github.com/amrutatodakar/JAVA/blob/main/sublistcolors_output.png
 
-Q1C.LINKEDLIST
+Q1c.LINKEDLIST
 DisplayWithposition output:https://github.com/amrutatodakar/JAVA/blob/main/CountryButton.java
 Insertend output:https://github.com/amrutatodakar/JAVA/blob/main/Insertatend_output.png
 iteratefromposition output:https://github.com/amrutatodakar/JAVA/blob/main/Iteratatefromposition_output.png
