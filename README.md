@@ -40,6 +40,17 @@ PalindromeCheck:https://github.com/amrutatodakar/JAVA/blob/main/PalindromeCheck.
 RemoveWhitespace:https://github.com/amrutatodakar/JAVA/blob/main/RemoveWhiteSpce.png
 ReverseString:https://github.com/amrutatodakar/JAVA/blob/main/ReverseString.png
 
+Q3c.
+CapitalizeWord:
+CountWords:
+IsNumeric:
+RandomStringGenerator:
+TruncateString:
+
+
+
+
+
 
 
 
