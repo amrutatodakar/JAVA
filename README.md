@@ -41,7 +41,7 @@ RemoveWhitespace:https://github.com/amrutatodakar/JAVA/blob/main/RemoveWhiteSpce
 ReverseString:https://github.com/amrutatodakar/JAVA/blob/main/ReverseString.png
 
 Q3c.
-CapitalizeWord:
+CapitalizeWord:https://github.com/amrutatodakar/JAVA/commit/77dbcbeceaeb44e2843865229adf5ac12af64cab
 CountWords:
 IsNumeric:
 RandomStringGenerator:
