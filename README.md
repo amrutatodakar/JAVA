@@ -17,11 +17,18 @@ iteratefromposition output:https://github.com/amrutatodakar/JAVA/blob/main/Itera
 Reverseiteration_output:https://github.com/amrutatodakar/JAVA/blob/main/Reverseiteration_output.png
 Swapelements output:https://github.com/amrutatodakar/JAVA/blob/main/swapelements_output.png
 
+
+
+
 Q2a.STRINGHANDLING
 StringOperation output:https://github.com/amrutatodakar/JAVA/blob/main/StringOperationsDemo.java
 
 Q2b.STRINGPERFORMANCE
 StringPerformance output:https://github.com/amrutatodakar/JAVA/blob/main/Stringperformance_output.png
+
+
+
+
 
 Q3a.STRINGOPS
 StringOperationdemo output:https://github.com/amrutatodakar/JAVA/blob/main/Stringoperationdemo_output.png
