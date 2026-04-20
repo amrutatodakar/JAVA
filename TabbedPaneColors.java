@@ -7,25 +7,25 @@ public class TabbedPaneColors {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Tabbed Pane Colors");
+        JFrame frame = new JFrame("CMY Tabbed Pane");
 
         // Create TabbedPane
         JTabbedPane tabbedPane = new JTabbedPane();
 
-        // Create panels for each tab
-        JPanel redPanel = new JPanel();
-        redPanel.setBackground(Color.RED);
+        // Panels with colors
+        JPanel cyanPanel = new JPanel();
+        cyanPanel.setBackground(Color.CYAN);
 
-        JPanel bluePanel = new JPanel();
-        bluePanel.setBackground(Color.BLUE);
+        JPanel magentaPanel = new JPanel();
+        magentaPanel.setBackground(Color.MAGENTA);
 
-        JPanel greenPanel = new JPanel();
-        greenPanel.setBackground(Color.GREEN);
+        JPanel yellowPanel = new JPanel();
+        yellowPanel.setBackground(Color.YELLOW);
 
         // Add tabs
-        tabbedPane.addTab("RED", redPanel);
-        tabbedPane.addTab("BLUE", bluePanel);
-        tabbedPane.addTab("GREEN", greenPanel);
+        tabbedPane.addTab("CYAN", cyanPanel);
+        tabbedPane.addTab("MAGENTA", magentaPanel);
+        tabbedPane.addTab("YELLOW", yellowPanel);
 
         // Add to frame
         frame.add(tabbedPane);
