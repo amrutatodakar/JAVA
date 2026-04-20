@@ -16,3 +16,5 @@ StringOperation output:https://github.com/amrutatodakar/JAVA/blob/main/StringOpe
 StringPerformance output:https://github.com/amrutatodakar/JAVA/blob/main/Stringperformance_output.png
 
 ListOperations output:https://github.com/amrutatodakar/JAVA/blob/main/listoperation_output.png
+
+SortColors output:https://github.com/amrutatodakar/JAVA/blob/main/sortcolors_output.png
