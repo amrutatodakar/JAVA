@@ -8,3 +8,5 @@ iteratefromposition output:https://github.com/amrutatodakar/JAVA/blob/main/Displ
 RemoveColor output:https://github.com/amrutatodakar/JAVA/blob/main/RemoveColor_output.png
 
 SearchColor output:https://github.com/amrutatodakar/JAVA/blob/main/SEarchColor_output.png
+
+StringOperationdemo output:https://github.com/amrutatodakar/JAVA/blob/main/Stringoperationdemo_output.png
