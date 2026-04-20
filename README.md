@@ -45,7 +45,18 @@ CapitalizeWord:https://github.com/amrutatodakar/JAVA/commit/77dbcbeceaeb44e28438
 CountWords:https://github.com/amrutatodakar/JAVA/blob/main/CountWords.png
 IsNumeric:https://github.com/amrutatodakar/JAVA/blob/main/IsNumeric.png
 RandomStringGenerator:https://github.com/amrutatodakar/JAVA/blob/main/RandomStringGeneration.png
-TruncateString:
+TruncateString:https://github.com/amrutatodakar/JAVA/blob/main/TruncateString.png
+
+Q4a.
+Helloswings:
+
+Q4b.
+CountryButton:
+
+Q4c.
+ImageButtonExample:
+
+
 
 
 
