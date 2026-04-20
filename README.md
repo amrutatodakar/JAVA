@@ -27,7 +27,7 @@ Q3a.STRINGOPS
 StringOperationdemo output:https://github.com/amrutatodakar/JAVA/blob/main/Stringoperationdemo_output.png
 
 Q3b.STRING-EXE
-CheckNullOrEmpty:
+CheckNullOrEmpty:https://github.com/amrutatodakar/JAVA/blob/main/checkNullOrEmpty.png
 CountSubstring:
 PalindromeCheck:
 RemoveWhitespace:
