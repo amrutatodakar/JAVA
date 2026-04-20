@@ -20,3 +20,5 @@ ListOperations output:https://github.com/amrutatodakar/JAVA/blob/main/listoperat
 SortColors output:https://github.com/amrutatodakar/JAVA/blob/main/sortcolors_output.png
 
 Sublistcolor output:https://github.com/amrutatodakar/JAVA/blob/main/sublistcolors_output.png
+
+Swapelements output:https://github.com/amrutatodakar/JAVA/blob/main/swapelements_output.png
