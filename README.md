@@ -28,7 +28,7 @@ StringOperationdemo output:https://github.com/amrutatodakar/JAVA/blob/main/Strin
 
 Q3b.STRING-EXE
 CheckNullOrEmpty:https://github.com/amrutatodakar/JAVA/blob/main/checkNullOrEmpty.png
-CountSubstring:
+CountSubstring:https://github.com/amrutatodakar/JAVA/blob/main/CountSubstring.png
 PalindromeCheck:https://github.com/amrutatodakar/JAVA/blob/main/PalindromeCheck.png
 RemoveWhitespace:
 ReverseString:
