@@ -25,3 +25,6 @@ Swapelements output:https://github.com/amrutatodakar/JAVA/blob/main/swapelements
 Reverseiteration_output:https://github.com/amrutatodakar/JAVA/blob/main/Reverseiteration_output.png
 
 DisplayWithposition output:https://github.com/amrutatodakar/JAVA/blob/main/CountryButton.java
+
+RemoveNthElement output:https://github.com/amrutatodakar/JAVA/blob/main/RemoveNthElement_output.png
+
