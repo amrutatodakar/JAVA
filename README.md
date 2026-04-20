@@ -6,3 +6,5 @@ output for Insertend_output:https://github.com/amrutatodakar/JAVA/blob/main/Inse
 iteratefromposition output:https://github.com/amrutatodakar/JAVA/blob/main/Displaywithposition_output.png
 
 RemoveColor output:https://github.com/amrutatodakar/JAVA/blob/main/RemoveColor_output.png
+
+SearchColor output:https://github.com/amrutatodakar/JAVA/blob/main/SEarchColor_output.png
